@@ -30,7 +30,7 @@ class ClassificationCounts:
     l3_likely: int = 0
     l4_less_likely: int = 0
     l5_unlikely: int = 0
-    16_latency : int = 0
+    #16_latency : int = 0
     
 class LakeraEvaluator:
     def __init__(self, api_key: str):
