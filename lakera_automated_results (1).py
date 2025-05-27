@@ -20,7 +20,7 @@ CATEGORIES = [
     'moderated_content/violence', 'moderated_content/weapons', 'moderated_content/crime',
     'pii/address', 'pii/credit_card', 'pii/email', 'pii/iban_code', 'pii/ip_address',
     'pii/name', 'pii/phone_number', 'pii/us_social_security_number', 'prompt_attack',
-    'unknown_links'
+    'unknown_links','accuracy','precision','recall','f1 score','false positive rate', 'true positive rate','false negative rate','true negative rate', 'latency'
 ]
 
 @dataclass
