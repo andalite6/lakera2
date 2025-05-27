@@ -5,7 +5,7 @@ from typing import List, Dict, Optional
 from datetime import datetime
 from glob import glob
 from dataclasses import dataclass
-import aiohttp
+#import aiohttp
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill, Font
 from tqdm import tqdm
